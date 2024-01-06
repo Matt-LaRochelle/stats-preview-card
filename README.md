@@ -40,6 +40,7 @@ Users should be able to:
 - CSS custom properties
 - Desktop-first workflow
 - Google Fonts
+- Total time: 2 hours 5 minutes
 
 
 ### What I learned
@@ -75,4 +76,4 @@ Every time I have to use the ::before or ::after pseudo elements I always strugg
 
 ## Author
 
-- Website - [Matt's Dev Projects](https://mattsdevprojects.com/)
+- My portfolio website - [Matt's Dev Projects](https://mattsdevprojects.com/)
